@@ -1,0 +1,8 @@
+{
+  "name": "Juara TKA SD - Latihan Soal & Analisis Interaktif",
+  "description": "Aplikasi interaktif latihan soal pilihan ganda dan kompleks TKA SD Matematika dan Bahasa Indonesia dengan analisis performa, pembahasan instan, dan meme lucu edukatif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
